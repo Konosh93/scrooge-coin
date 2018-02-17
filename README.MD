@@ -1,4 +1,4 @@
-<h1>My solution to Coursera-Cryptocurrency course</h1>
+<h1>Scrooge coin</h1>
 <p>
 	This is my solution to the first assignment of the cryptocurrency course on Coursera.
 </p>
